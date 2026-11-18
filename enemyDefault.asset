@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 193f8a7a58872604da83073a74b5af73, type: 3}
+  m_Name: enemyDefault
+  m_EditorClassIdentifier: 
+  AnimationName: 
+  TransitionDuration: 0
+  ComboStateIndex: -1
+  CanCombo: 1
+  ComboAttackTime: 0
+  ForceTime: 0
+  Force: 0
+  DamageAmount: 0
+  Knockback: 0
+  PlaybackSpeed: 0
+  attackVFXString: 
+  spawnPoint: {fileID: 0}
+  enemyImpactAnimationName: Impact
+  enemyDeathAnimationName: Ded Right
